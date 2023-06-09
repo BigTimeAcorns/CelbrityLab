@@ -19,6 +19,7 @@ public class Celebrity {
         return guess;
     }
 
+    // dsfhasdjklfhasdljfjasd;j
     public String getType() {
         return type;
     }
